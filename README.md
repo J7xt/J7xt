@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommyagk&theme=dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inheritably&theme=dark" />
 
 ### Hi there 👋
 - I'm the guy who made the checker you're using lol.
